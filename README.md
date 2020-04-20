@@ -11,6 +11,8 @@ Credits and thanks:
 
 [@ali.the.architect](https://www.instagram.com/ali.the.architect/)
 
+[@billvanloo](https://www.instagram.com/billvanloo/)
+
 [@thynk](https://www.instagram.com/thynk/)
 
 [@verzerren](https://www.instagram.com/verzerren/)
