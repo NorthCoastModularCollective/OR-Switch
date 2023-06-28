@@ -1,5 +1,7 @@
 # OR-Switch
-Eurorack module designed to switch between two banks of three OR logic combined gates/triggers
+A Eurorack module designed to switch between two banks of three OR logic combined gates/triggers.
+
+View the [Build Instructions](https://github.com/NorthCoastModularCollective/OR-Switch/wiki/Build-Instructions) for this module. There is also a comprehensive [Build Video](https://www.youtube.com/watch?v=5DkyYo5xj5A) as well.
 
 ![photo of module](https://github.com/NorthCoastModularCollective/OR-Switch/blob/master/media/photo.jpg)
 
